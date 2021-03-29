@@ -85,7 +85,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgb(10 10 10 / 90%);
+  background-color: rgba(223, 133, 15, 0.9);
   position :fixed;
   top: 0;
   z-index: 10;
@@ -129,7 +129,7 @@ header {
   display : none;
 }
 
-/* style by mas abdholatul abdillah */
+
 .lesson-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
@@ -154,7 +154,7 @@ header {
 }
 
 .lesson-icon {
-  position: relative;
+  position: relative;  
 }
 
 .lesson-icon p {
@@ -195,12 +195,9 @@ header {
   top: 7px;
   box-shadow: none;
 }
-
-/* by mas Furqon Dinata */
 .service h3{
   text-align:center;
 }
-
 .box {
   color: #b01323;
 }
@@ -254,11 +251,10 @@ footer p {
 }
 
 footer {
-  background-color: #000000;
+  background-color: #961010;
   padding-top: 30px;
   padding-bottom: 20px;
   color: #fff;
-  font-weight:900;
 }
 
 .footer-content {
@@ -284,6 +280,7 @@ footer {
 }
 
 .footer-bottom {
+  background-color: #570808;
   text-align : center;
 }
  .footer-bottom p{
