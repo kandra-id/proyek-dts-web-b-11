@@ -44,7 +44,7 @@ a {
 }
 
 .btn-wrapper {
-  text-align: center;
+  text-align: right;
   margin: 20px 0;
 }
 
@@ -52,18 +52,18 @@ a {
   margin: 10px 0;
 }
 
-.signup {
-  background-color: #239b76;
-}
-
-.facebook {
-  background-color: #3b5998;
+.resume {
+  background-color: #FF1493;
   margin-right: 10px;
 }
 
-.twitter {
-  background-color: #55acee;
+.project {
+  background-color: #FFA500;
 }
+.profil{
+  float: left;
+}
+
 
 .btn {
   padding: 12px 24px;
