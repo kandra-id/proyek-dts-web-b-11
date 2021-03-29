@@ -251,10 +251,11 @@ footer p {
 }
 
 footer {
-  background-color: #961010;
+  background-color: #000000;
   padding-top: 30px;
   padding-bottom: 20px;
   color: #fff;
+  font-weight:900;
 }
 
 .footer-content {
@@ -280,7 +281,6 @@ footer {
 }
 
 .footer-bottom {
-  background-color: #570808;
   text-align : center;
 }
  .footer-bottom p{
