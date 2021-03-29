@@ -129,7 +129,7 @@ header {
   display : none;
 }
 
-
+/* style by mas abdholatul abdillah */
 .lesson-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
@@ -158,10 +158,11 @@ header {
 }
 
 .lesson-icon p {
-  position: absolute;
+  position: relative;
   top: 44%;
   width: 100%;
-  color: white;
+  color: #b3aeb5;
+  font-size: 20px;
 }
 
 .text-contents {
